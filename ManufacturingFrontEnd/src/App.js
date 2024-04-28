@@ -1,11 +1,14 @@
+// App.js
 import React from "react";
-import Routes from "./Routes";
 import { BrowserRouter as Router } from "react-router-dom";
+import ProjectRoutes from "./Routes";
 
 function App() {
   return (
     <Router>
-      <Routes />
+      <div>
+        <ProjectRoutes />
+      </div>
     </Router>
   );
 }
