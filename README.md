@@ -5,7 +5,7 @@
 
 ### Subsystems:
 
-1. **Manufacturing**: This subsystem handles the manufacturing processes within the warehouse.
+**Manufacturing**: This subsystem handles the manufacturing processes within the warehouse.
 
 ## Project Goals
 🎯 Our aim was to enhance the manufacturing process efficiency through a solution that integrated seamlessly with other modules like inventory management, quality assurance, and human resource management.
