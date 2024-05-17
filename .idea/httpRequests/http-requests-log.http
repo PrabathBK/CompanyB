@@ -1,3 +1,23 @@
+PUT http://localhost:8090/companyB/manufacturing/User/adminLogin/Cat/King
+Content-Length: 0
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.9)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+<> 2024-05-07T200533.200.txt
+
+###
+
+PUT http://localhost:8090/companyB/manufacturing/User/adminLogin/Cat/King
+Content-Length: 0
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.9)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+<> 2024-05-07T200531.200.txt
+
+###
+
 GET http://localhost:8090/FetchUser/users/King
 Connection: Keep-Alive
 User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.9)
@@ -473,22 +493,4 @@ User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.9)
 Accept-Encoding: br,deflate,gzip,x-gzip
 
 <> 2024-04-28T205233.200.txt
-
-###
-
-GET http://localhost:8090/FetchOrders/OD0003
-Connection: Keep-Alive
-User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.9)
-Accept-Encoding: br,deflate,gzip,x-gzip
-
-<> 2024-04-28T205050.404.txt
-
-###
-
-GET http://localhost:8090/FetchOrders/OD0002
-Connection: Keep-Alive
-User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.9)
-Accept-Encoding: br,deflate,gzip,x-gzip
-
-<> 2024-04-28T205035.200.txt
 
